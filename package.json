@@ -1,0 +1,26 @@
+{
+  "name": "typescriptessentialtraining",
+  "version": "1.0.0",
+  "description": "Simple project to learn typescript",
+  "main": "loops-const-let.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "serve": "lite-server",
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbelovic/ts-essentials.git"
+  },
+  "author": "bbelovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbelovic/ts-essentials/issues"
+  },
+  "homepage": "https://github.com/bbelovic/ts-essentials#readme"
+}
